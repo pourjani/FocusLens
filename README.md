@@ -7,7 +7,7 @@
 - Adjustable **mask position** (X, Y) and **size** using sliders.  
 - Control **blur intensity** dynamically.  
 - Real-time updates for smooth interactivity.  
-- Works on any image (just replace `beach.jpg`).  
+- Works on any image (just replace `street.jpg`).  
 
 ## **🚀 How It Works**  
 1. **Draws a white rectangle** (mask) on a black background.  
